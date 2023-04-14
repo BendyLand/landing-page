@@ -1,0 +1,59 @@
+.wrapper {
+    border: 4px solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.header {
+    border: 4px solid orange;
+    display: flex;
+    align-items: center;
+    padding: 10px;
+}
+
+.links {
+    margin-left: auto;
+    gap: 10px;
+}
+
+a {
+    margin-left: 12px;
+}
+
+.main {
+    border: 4px solid green;
+    display: flex;
+    flex-direction: column;
+    flex: auto;
+}
+
+.main-one {
+    display: flex;
+    margin: 10px;
+}
+
+.main-one .vstack {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+}
+
+.main-three {
+    border-top: 2px dashed black;
+    border-bottom: 2px dashed black;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
+.main-four {
+    background-color: rgba(0, 119, 255, 0.736);
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+.footer {
+    border: 4px solid yellow;
+}
