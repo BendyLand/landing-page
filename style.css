@@ -9,6 +9,12 @@
     display: flex;
     align-items: center;
     padding: 10px;
+    background-color: #1f2937;
+}
+
+.header h1 {
+    font-size: 24px;
+    color: #F9FAF8;
 }
 
 .links {
@@ -18,6 +24,9 @@
 
 a {
     margin-left: 12px;
+    font-size: 18px;
+    color: #E5E7EB;
+    text-decoration: none;
 }
 
 .main {
@@ -29,8 +38,14 @@ a {
 
 .main-one {
     display: flex;
-    margin: 10px;
+    padding: 10px;
     border-bottom: 2px dashed black;
+    background-color: #1f2937;
+}
+
+button {
+    background-color: #3882F6;
+    color: white;
 }
 
 .main-one .vstack {
@@ -40,27 +55,52 @@ a {
     justify-content: flex-start;
 }
 
+.vstack h2 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #F9FAF8;
+}
+
+.main-one .vstack p, .links {
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
 img {
     width: 200px;
     height: auto;
     margin-left: auto;
 }
 
+.main-two h2 {
+    font-size: 36px;
+    font-weight: 900;
+    color: #1f2937;
+}
+
 .main-three {
-    border-top: 2px dashed black;
-    border-bottom: 2px dashed black;
     margin: 10px;
     display: flex;
     flex-direction: column;
+    background-color: #E5E7EB;
+}
+
+.inspiring-quote {
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
 }
 
 .main-four {
-    background-color: rgba(0, 119, 255, 0.736);
+    background-color: #3882F6;
     margin: 10px;
     border-radius: 10px;
-    
+    color: white;
 }
 
 .footer {
     border: 4px solid yellow;
+    background-color: #1f2937;
+    color: #E5E7EB;
 }
