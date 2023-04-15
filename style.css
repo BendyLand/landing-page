@@ -131,7 +131,7 @@ img {
     color: white;
 }
 
-.footer h4, .footer {
+.footer, .footer h4 {
     background-color: #1f2937;
     color: #E5E7EB;
     display: flex;
