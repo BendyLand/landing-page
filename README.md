@@ -60,3 +60,10 @@ ___
  - [ ] Main three
  - [ ] Main four
  - [ ] Footer
+
+___
+
+## Current Working Section
+
+ 1. Color elements: Main three
+ 2. Resize header
