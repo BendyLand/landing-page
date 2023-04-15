@@ -21,35 +21,42 @@ ___
 
 ## To do
 
-- [ ] Place all of the items into the html
-- [ ] Divide the html into the four sections (plus header and footer)
+- [x] Place all of the items into the html
+- [x] Divide the html into the four sections (plus header and footer)
 - [ ] Reposition elements inside of their containers (.main-#)
-  - [ ] Header
-  - [ ] Main one
-  - [ ] Main two
+  - [x] Header
+  - [x] Main one <!--- This and the next one are not perfect, but they are aligned -->
+  - [x] Main two
   - [ ] Main three
   - [ ] Main four
-  - [ ] footer
+  - [x] footer
 - [ ] Resize elements
   - [ ] Header
   - [ ] Main one
   - [ ] Main two
   - [ ] Main three
   - [ ] Main four
-  - [ ] footer
+  - [x] footer
 - [ ] Color elements
-  - [ ] Header
-  - [ ] Main one
-  - [ ] Main two
+  - [x] Header
+  - [x] Main one
+  - [x] Main two
   - [ ] Main three
-  - [ ] Main four
-  - [ ] footer
-- [ ] Color backgrounds
-  - [ ] Header
-  - [ ] Main one
-  - [ ] Main two
-  - [ ] Main three
-  - [ ] Main four
-  - [ ] footer
-- [ ] 
+  - [x] Main four
+  - [x] footer
+- [x] Color backgrounds
+  - [x] Header
+  - [x] Main one
+  - [x] Main two
+  - [x] Main three
+  - [x] Main four
+  - [x] footer
 
+#### Fully complete sections
+
+ - [ ] Header
+ - [ ] Main one
+ - [ ] Main two
+ - [ ] Main three
+ - [ ] Main four
+ - [ ] Footer
