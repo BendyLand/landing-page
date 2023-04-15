@@ -1,3 +1,7 @@
+* {
+    font-family: sans-serif;
+}
+
 .wrapper {
     display: flex;
     flex-direction: column;
@@ -59,7 +63,7 @@ button {
     color: #F9FAF8;
 }
 
-.main-one .vstack p, .links {
+.main-one .vstack p {
     font-size: 18px;
     color: #E5E7EB;
 }
@@ -117,6 +121,12 @@ img {
 .footer {
     background-color: #1f2937;
     color: #E5E7EB;
+    display: flex;
+    justify-content: center;
+}
+
+h4 {
+    font-weight: 400;
 }
 
 .square {
