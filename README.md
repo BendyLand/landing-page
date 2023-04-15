@@ -41,7 +41,7 @@ ___
   - [x] Header
   - [x] Main one
   - [x] Main two
-  - [ ] Main three
+  - [x] Main three
   - [x] Main four
   - [x] footer
 - [x] Color backgrounds
@@ -65,5 +65,4 @@ ___
 
 ## Current Working Section
 
- 1. Color elements: Main three
- 2. Resize header
+ 1. Resize header
