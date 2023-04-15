@@ -37,7 +37,7 @@ ___
   - [ ] Main three
   - [ ] Main four
   - [x] footer
-- [ ] Color elements
+- [x] Color elements
   - [x] Header
   - [x] Main one
   - [x] Main two
