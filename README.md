@@ -21,36 +21,36 @@ ___
 
 ## To do
 
-- [x] Place all of the items into the html
+- [ ] Place all of the items into the html
 - [x] Divide the html into the four sections (plus header and footer)
 - [ ] Reposition elements inside of their containers (.main-#)
   - [x] Header
-  - [x] Main one <!--- This and the next one are not perfect, but they are aligned -->
-  - [x] Main two
+  - [x] Main one <!--- This one is not perfect -->
+  - [ ] Main two
   - [ ] Main three
   - [ ] Main four
-  - [x] footer
+  - [ ] Footer
 - [ ] Resize elements
   - [ ] Header
   - [ ] Main one
   - [ ] Main two
   - [ ] Main three
   - [ ] Main four
-  - [x] footer
-- [x] Color elements
-  - [x] Header
-  - [x] Main one
-  - [x] Main two
-  - [x] Main three
-  - [x] Main four
-  - [x] footer
-- [x] Color backgrounds
-  - [x] Header
-  - [x] Main one
-  - [x] Main two
-  - [x] Main three
-  - [x] Main four
-  - [x] footer
+  - [ ] Footer
+- [ ] Color elements
+  - [ ] Header
+  - [ ] Main one
+  - [ ] Main two
+  - [ ] Main three
+  - [ ] Main four
+  - [ ] Footer
+- [ ] Color backgrounds
+  - [ ] Header
+  - [ ] Main one
+  - [ ] Main two
+  - [ ] Main three
+  - [ ] Main four
+  - [ ] Footer
 
 #### Fully complete sections
 
@@ -65,4 +65,4 @@ ___
 
 ## Current Working Section
 
- 1. Resize header
+ 1. Add classes to elements with similar styles, rather than creating many groups of style declarations.
