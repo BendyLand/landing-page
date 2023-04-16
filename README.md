@@ -68,12 +68,12 @@ ___
 1. Add classes to elements with similar styles, rather than creating many groups of style declarations.
   -  ~~hero and footer background color, information header and quote text color~~ - #1F2937 (midnight)
   -  ~~hero main and header logo text color~~ - #F9FAF8 (saltpan)
-     -  hero main text - 48px extra bold
-     -  header logo text - 24px
+     -  ~~hero main text~~ - 48px extra bold
+     -  ~~header logo text~~ - 24px
   -  ~~hero secondary and header link text color, and quote section background color~~ - #E5E7EB (solitude)
-     -  hero secondary and header link text - 18px 
+     -  ~~hero secondary and header link text~~ - 18px 
   -  ~~button color and call to action background color~~ - #3882F6 (blue)
-     -  quote text - 36px light italic
+     -  ~~quote text~~ - 36px light italic
   
 ### Classes I need
  - ~~midnight~~
@@ -82,7 +82,7 @@ ___
  - ~~solitude~~
  - ~~solitude-text~~
  - ~~blue~~
- - hero-main-text
- - header-logo-text
- - secondary-text
- - quote-text
+ - ~~hero-main-text~~
+ - ~~header-logo-text~~
+ - ~~secondary-text~~
+ - ~~quote-text~~
