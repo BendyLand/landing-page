@@ -80,4 +80,7 @@ ___
  - saltpan
  - solitude
  - blue
- - 
+ - hero-main-text
+ - header-logo-text
+ - secondary-text
+ - quote-text
