@@ -70,3 +70,22 @@ img {
 .blue {
     background-color: #3882F6;
 }
+
+.hero-main-text {
+    font-size: 48px;
+    font-weight: 900;
+}
+
+.header-logo-text {
+    font-size: 24px;
+}
+
+.secondary-text {
+    font-size: 18px;
+}
+
+.quote-text {
+    font-size: 36px;
+    font-style: italic;
+    font-weight: 300;
+}
