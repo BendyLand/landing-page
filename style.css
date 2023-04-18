@@ -128,3 +128,9 @@ button {
 .footer h4 {
     font-weight: 300;
 }
+
+.main-four .hstack {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
