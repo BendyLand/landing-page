@@ -6,7 +6,7 @@ body {
 .header {
     display: flex;
     align-items: center;
-    padding: 50px 0 50px 150px;
+    padding: 50px 0 50px 300px;
     padding-bottom: 0;
 }
 
@@ -30,7 +30,7 @@ a {
 .main-one {
     display: flex;
     border-bottom: 2px dashed black;
-    padding: 50px 150px;
+    padding: 50px 150px 150px 300px;
     padding-top: 5px;
 }
 
@@ -87,7 +87,7 @@ img {
     font-size: 48px;
     font-weight: 900;
     margin-bottom: 0;
-    margin-right: 15px;
+    margin-right: 100px;
 }
 
 .header-logo-text {
@@ -97,8 +97,9 @@ img {
 .secondary-text {
     font-size: 18px;
     margin-top: 0;
-    margin-right: 15px;
+    margin-right: 100px;
     margin-bottom: 8px;
+    font-weight: 300;
 }
 
 .quote-text {
@@ -108,9 +109,11 @@ img {
 }
 
 button {
-    border-radius: 5px;
+    border-radius: 10px;
     border: none;
-    padding: 2px 5px;
+    padding: 10px 30px;
+    font-size: 15px;
+    font-weight: 600;
 }
 
 .hstack button {
