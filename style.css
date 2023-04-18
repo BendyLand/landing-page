@@ -5,19 +5,14 @@ body {
 
 .header {
     display: flex;
-    align-items: center;
-    padding: 50px 0 50px 300px;
-    padding-bottom: 0;
 }
 
 .links {
-    margin-left: auto;
-    gap: 10px;
-    padding-right: 150px;
+    display: flex;
+    align-items: center;
 }
-
 a {
-    margin-left: 12px;
+    margin-left: 16px;
     text-decoration: none;
 }
 
@@ -28,10 +23,7 @@ a {
 }
 
 .main-one {
-    display: flex;
-    border-bottom: 2px dashed black;
-    padding: 50px 150px 150px 300px;
-    padding-top: 5px;
+    
 }
 
 .main-one .vstack {
@@ -46,6 +38,7 @@ img {
     height: 200px;
     margin-left: auto;
     margin-top: auto;
+    margin-right: 200px;
 }
 
 .square {
