@@ -127,10 +127,28 @@ button {
 
 .footer h4 {
     font-weight: 300;
+    padding: 20px;
+}
+
+.main-four {
+    margin: 100px 200px;
+    border-radius: 10px;
 }
 
 .main-four .hstack {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.main-four .hstack .vstack {
+    margin-right: 150px;
+}
+
+.main-four .hstack .vstack h3 {
+    margin: 50px 0 0 0;
+}
+
+.main-four .hstack .vstack p {
+    margin: 0 0 50px 0;
 }
