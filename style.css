@@ -83,6 +83,17 @@ img {
 .main-three {
     display: flex;
     flex-direction: column;
+    padding: 85px 300px;
+}
+
+.main-three p {
+    margin-bottom: 0;
+}
+
+.main-three h4 {
+    margin-left: auto;
+    margin-top: 0;
+    font-size: 24px;
 }
 
 .midnight {
